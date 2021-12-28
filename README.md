@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lollipopnougat/lollipopnougat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi! I'm lollipopnougat.
+### Hi! I'm lollipopnougat.
 
 I'm currently working on slacking off...
 
 只要我们不停下来，就一定有🐟可以摸！
 所以啊，不要停下来啊！
 
-😅😅😅
+#### 😅😅😅
