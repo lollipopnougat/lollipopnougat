@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi! I'm lollipopnougat.
 
-I'm currently working on slacking off...
 
-所以啊，不要停下来啊！
-
-#### 😅😅😅
 
 ![@](https://github-readme-stats.vercel.app/api?username=lollipopnougat&show_icons=true)
